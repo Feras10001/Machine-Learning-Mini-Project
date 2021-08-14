@@ -1,2 +1,2 @@
 # Machine-Learning-Practice
-Practiving MAchine Learning Coding 
+Practicing Machine Learning Coding 
